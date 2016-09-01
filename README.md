@@ -1,1 +1,3 @@
-This is the home for my project titled DataFace.  It is still a work in progress.
+DataFace 
+General Assembly--Data Science Immersive 2016
+by Robbie Smoot
